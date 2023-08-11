@@ -1,0 +1,10 @@
+com\intactinsurance\restdemo\INoteService.class
+com\intactinsurance\restdemo\NoteNotFoundAdvice.class
+com\intactinsurance\restdemo\NoteNotFoundException.class
+com\intactinsurance\restdemo\NoteService.class
+com\intactinsurance\restdemo\RestDemoApplication.class
+com\intactinsurance\restdemo\SpringFoxConfig.class
+com\intactinsurance\restdemo\Note.class
+com\intactinsurance\restdemo\NoteModelAssembler.class
+com\intactinsurance\restdemo\NoteController.class
+com\intactinsurance\restdemo\NoteRepository.class
